@@ -84,11 +84,11 @@ The system integrates multiple hardware and software components:
 
 ##  Results & Impact
 
-* ✅ Improved CPR accuracy and consistency
-* ✅ Reduced human error during emergencies
-* ✅ Real-time patient monitoring
-* ✅ Faster emergency response through automation
-* ✅ Affordable and portable healthcare solution
+*  Improved CPR accuracy and consistency
+*  Reduced human error during emergencies
+*  Real-time patient monitoring
+*  Faster emergency response through automation
+*  Affordable and portable healthcare solution
 
 ---
 
